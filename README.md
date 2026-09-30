@@ -1,21 +1,27 @@
-<div align="center">
+# 👋 Anshul Guleria
 
-<img src="./assets/banner.svg" width="100%" alt="Anshul Guleria, AI Backend Engineer"/>
+### AI Backend Engineer · LLM Systems · Multi-Agent AI · Production APIs
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-B45309?style=for-the-badge&logo=vercel&logoColor=white)](https://anshul-guleria-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshul-guleria/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/itsanshuguleria)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshulguleria2002@gmail.com)
+<p align="center">
 
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-B45309?style=for-the-badge\&logo=vercel\&logoColor=white)](https://anshul-guleria-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/anshul-guleria/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)](https://www.kaggle.com/itsanshuguleria)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:anshulguleria2002@gmail.com)
+
+</p>
+
+---
 
 ## About
 
-AI backend engineer building LLM-powered systems, multi-agent architectures, and production APIs. I work with Python to take models and agents from prototype to deployment.
+AI backend engineer building **LLM-powered systems, multi-agent architectures, and production APIs**. I work with Python to take models and agents from prototype to deployment.
 
-- Multi-agent and agentic AI systems
-- RAG pipelines, embeddings, and LLM fine-tuning
-- Model serving with FastAPI, Docker, and cloud infrastructure
+* 🤖 Multi-agent and agentic AI systems
+* 🔎 RAG pipelines, embeddings, and LLM fine-tuning
+* ⚡ Model serving with FastAPI, Docker, and cloud infrastructure
+
+---
 
 ## Tech Stack
 
@@ -24,12 +30,13 @@ AI backend engineer building LLM-powered systems, multi-agent architectures, and
     <td><b>Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
       <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
     </td>
   </tr>
+
   <tr>
     <td><b>Generative AI</b></td>
     <td>
@@ -47,6 +54,7 @@ AI backend engineer building LLM-powered systems, multi-agent architectures, and
       <img src="https://img.shields.io/badge/Prompt%20Engineering-475569?style=for-the-badge" alt="Prompt Engineering"/>
     </td>
   </tr>
+
   <tr>
     <td><b>Frameworks and Tools</b></td>
     <td>
@@ -59,6 +67,7 @@ AI backend engineer building LLM-powered systems, multi-agent architectures, and
       <img src="https://img.shields.io/badge/Opik-FF6B35?style=for-the-badge" alt="Opik"/>
     </td>
   </tr>
+
   <tr>
     <td><b>ML and Deep Learning</b></td>
     <td>
@@ -70,6 +79,7 @@ AI backend engineer building LLM-powered systems, multi-agent architectures, and
       <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
     </td>
   </tr>
+
   <tr>
     <td><b>Backend</b></td>
     <td>
@@ -83,6 +93,7 @@ AI backend engineer building LLM-powered systems, multi-agent architectures, and
       <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
     </td>
   </tr>
+
   <tr>
     <td><b>Cloud and MLOps</b></td>
     <td>
@@ -97,6 +108,7 @@ AI backend engineer building LLM-powered systems, multi-agent architectures, and
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     </td>
   </tr>
+
   <tr>
     <td><b>Databases</b></td>
     <td>
@@ -106,6 +118,7 @@ AI backend engineer building LLM-powered systems, multi-agent architectures, and
       <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO"/>
     </td>
   </tr>
+
   <tr>
     <td><b>Automation</b></td>
     <td>
@@ -115,4 +128,8 @@ AI backend engineer building LLM-powered systems, multi-agent architectures, and
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B45309,50:26160a,100:0b0f14&height=100&section=footer" width="100%" alt="footer"/>
+---
+
+<p align="center">
+  <i>Building intelligent systems that move from prototype to production.</i>
+</p>
