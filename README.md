@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-B45309?style=for-the-badge&logo=vercel&logoColor=white)](https://anshul-guleria-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshul-guleria/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/YOUR_KAGGLE_USERNAME)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/itsanshuguleria)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshulguleria2002@gmail.com)
 
 </div>
@@ -83,9 +83,5 @@ AI backend engineer building LLM-powered systems, multi-agent architectures, and
     </td>
   </tr>
 </table>
-
-## Kaggle
-
-[![Kaggle](https://img.shields.io/badge/Find%20me%20on%20Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/YOUR_KAGGLE_USERNAME)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="footer"/>
